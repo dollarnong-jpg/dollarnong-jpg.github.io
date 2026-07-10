@@ -533,14 +533,6 @@
       },
       {
         "id": "event_39",
-        "title": "幻灯片44",
-        "full": "/images/event/thumbs/幻灯片44.jpg",
-        "thumb": "/images/event/thumbs/幻灯片44.jpg",
-        "category": "event",
-        "hidden": false
-      },
-      {
-        "id": "event_40",
         "title": "幻灯片5",
         "full": "/images/event/thumbs/幻灯片5.jpg",
         "thumb": "/images/event/thumbs/幻灯片5.jpg",
@@ -548,7 +540,7 @@
         "hidden": false
       },
       {
-        "id": "event_41",
+        "id": "event_40",
         "title": "幻灯片6",
         "full": "/images/event/thumbs/幻灯片6.jpg",
         "thumb": "/images/event/thumbs/幻灯片6.jpg",
@@ -556,7 +548,7 @@
         "hidden": false
       },
       {
-        "id": "event_42",
+        "id": "event_41",
         "title": "幻灯片7",
         "full": "/images/event/thumbs/幻灯片7.jpg",
         "thumb": "/images/event/thumbs/幻灯片7.jpg",
@@ -564,7 +556,7 @@
         "hidden": false
       },
       {
-        "id": "event_43",
+        "id": "event_42",
         "title": "幻灯片8",
         "full": "/images/event/thumbs/幻灯片8.jpg",
         "thumb": "/images/event/thumbs/幻灯片8.jpg",
@@ -572,7 +564,7 @@
         "hidden": false
       },
       {
-        "id": "event_44",
+        "id": "event_43",
         "title": "幻灯片9",
         "full": "/images/event/thumbs/幻灯片9.jpg",
         "thumb": "/images/event/thumbs/幻灯片9.jpg",
@@ -735,14 +727,6 @@
       },
       {
         "id": "food_20",
-        "title": "微信图片_20260617105209_271_3823(1)",
-        "full": "/images/food/thumbs/微信图片_20260617105209_271_3823(1).jpg",
-        "thumb": "/images/food/thumbs/微信图片_20260617105209_271_3823(1).jpg",
-        "category": "food",
-        "hidden": false
-      },
-      {
-        "id": "food_21",
         "title": "微信图片_20260617105209_271_3823",
         "full": "/images/food/thumbs/微信图片_20260617105209_271_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105209_271_3823.jpg",
@@ -750,15 +734,15 @@
         "hidden": false
       },
       {
-        "id": "food_22",
-        "title": "微信图片_20260617105210_272_3823(1)",
-        "full": "/images/food/thumbs/微信图片_20260617105210_272_3823(1).jpg",
-        "thumb": "/images/food/thumbs/微信图片_20260617105210_272_3823(1).jpg",
+        "id": "food_21",
+        "title": "微信图片_20260617105209_271_3823(1)",
+        "full": "/images/food/thumbs/微信图片_20260617105209_271_3823(1).jpg",
+        "thumb": "/images/food/thumbs/微信图片_20260617105209_271_3823(1).jpg",
         "category": "food",
         "hidden": false
       },
       {
-        "id": "food_23",
+        "id": "food_22",
         "title": "微信图片_20260617105210_272_3823",
         "full": "/images/food/thumbs/微信图片_20260617105210_272_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105210_272_3823.jpg",
@@ -766,7 +750,7 @@
         "hidden": false
       },
       {
-        "id": "food_24",
+        "id": "food_23",
         "title": "微信图片_20260617105211_273_3823(1)",
         "full": "/images/food/thumbs/微信图片_20260617105211_273_3823(1).jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105211_273_3823(1).jpg",
@@ -774,23 +758,7 @@
         "hidden": false
       },
       {
-        "id": "food_25",
-        "title": "微信图片_20260617105211_273_3823",
-        "full": "/images/food/thumbs/微信图片_20260617105211_273_3823.jpg",
-        "thumb": "/images/food/thumbs/微信图片_20260617105211_273_3823.jpg",
-        "category": "food",
-        "hidden": false
-      },
-      {
-        "id": "food_26",
-        "title": "微信图片_20260617105212_274_3823(1)",
-        "full": "/images/food/thumbs/微信图片_20260617105212_274_3823(1).jpg",
-        "thumb": "/images/food/thumbs/微信图片_20260617105212_274_3823(1).jpg",
-        "category": "food",
-        "hidden": false
-      },
-      {
-        "id": "food_27",
+        "id": "food_24",
         "title": "微信图片_20260617105212_274_3823",
         "full": "/images/food/thumbs/微信图片_20260617105212_274_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105212_274_3823.jpg",
@@ -798,15 +766,15 @@
         "hidden": false
       },
       {
-        "id": "food_28",
-        "title": "微信图片_20260617105213_275_3823(1)",
-        "full": "/images/food/thumbs/微信图片_20260617105213_275_3823(1).jpg",
-        "thumb": "/images/food/thumbs/微信图片_20260617105213_275_3823(1).jpg",
+        "id": "food_25",
+        "title": "微信图片_20260617105212_274_3823(1)",
+        "full": "/images/food/thumbs/微信图片_20260617105212_274_3823(1).jpg",
+        "thumb": "/images/food/thumbs/微信图片_20260617105212_274_3823(1).jpg",
         "category": "food",
         "hidden": false
       },
       {
-        "id": "food_29",
+        "id": "food_26",
         "title": "微信图片_20260617105213_275_3823",
         "full": "/images/food/thumbs/微信图片_20260617105213_275_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105213_275_3823.jpg",
@@ -814,15 +782,15 @@
         "hidden": false
       },
       {
-        "id": "food_30",
-        "title": "微信图片_20260617105213_276_3823(1)",
-        "full": "/images/food/thumbs/微信图片_20260617105213_276_3823(1).jpg",
-        "thumb": "/images/food/thumbs/微信图片_20260617105213_276_3823(1).jpg",
+        "id": "food_27",
+        "title": "微信图片_20260617105213_275_3823(1)",
+        "full": "/images/food/thumbs/微信图片_20260617105213_275_3823(1).jpg",
+        "thumb": "/images/food/thumbs/微信图片_20260617105213_275_3823(1).jpg",
         "category": "food",
         "hidden": false
       },
       {
-        "id": "food_31",
+        "id": "food_28",
         "title": "微信图片_20260617105213_276_3823",
         "full": "/images/food/thumbs/微信图片_20260617105213_276_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105213_276_3823.jpg",
@@ -830,7 +798,15 @@
         "hidden": false
       },
       {
-        "id": "food_32",
+        "id": "food_29",
+        "title": "微信图片_20260617105213_276_3823(1)",
+        "full": "/images/food/thumbs/微信图片_20260617105213_276_3823(1).jpg",
+        "thumb": "/images/food/thumbs/微信图片_20260617105213_276_3823(1).jpg",
+        "category": "food",
+        "hidden": false
+      },
+      {
+        "id": "food_30",
         "title": "微信图片_20260617105259_277_3823",
         "full": "/images/food/thumbs/微信图片_20260617105259_277_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105259_277_3823.jpg",
@@ -838,7 +814,7 @@
         "hidden": false
       },
       {
-        "id": "food_33",
+        "id": "food_31",
         "title": "微信图片_20260617105259_278_3823",
         "full": "/images/food/thumbs/微信图片_20260617105259_278_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617105259_278_3823.jpg",
@@ -846,7 +822,7 @@
         "hidden": false
       },
       {
-        "id": "food_34",
+        "id": "food_32",
         "title": "微信图片_20260617111716_280_3823",
         "full": "/images/food/thumbs/微信图片_20260617111716_280_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617111716_280_3823.jpg",
@@ -854,7 +830,7 @@
         "hidden": false
       },
       {
-        "id": "food_35",
+        "id": "food_33",
         "title": "微信图片_20260617111717_281_3823",
         "full": "/images/food/thumbs/微信图片_20260617111717_281_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617111717_281_3823.jpg",
@@ -862,7 +838,7 @@
         "hidden": false
       },
       {
-        "id": "food_36",
+        "id": "food_34",
         "title": "微信图片_20260617111717_282_3823",
         "full": "/images/food/thumbs/微信图片_20260617111717_282_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617111717_282_3823.jpg",
@@ -870,7 +846,7 @@
         "hidden": false
       },
       {
-        "id": "food_37",
+        "id": "food_35",
         "title": "微信图片_20260617111719_283_3823",
         "full": "/images/food/thumbs/微信图片_20260617111719_283_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617111719_283_3823.jpg",
@@ -878,7 +854,7 @@
         "hidden": false
       },
       {
-        "id": "food_38",
+        "id": "food_36",
         "title": "微信图片_20260617111720_284_3823",
         "full": "/images/food/thumbs/微信图片_20260617111720_284_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617111720_284_3823.jpg",
@@ -886,7 +862,7 @@
         "hidden": false
       },
       {
-        "id": "food_39",
+        "id": "food_37",
         "title": "微信图片_20260617112153_285_3823",
         "full": "/images/food/thumbs/微信图片_20260617112153_285_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617112153_285_3823.jpg",
@@ -894,7 +870,7 @@
         "hidden": false
       },
       {
-        "id": "food_40",
+        "id": "food_38",
         "title": "微信图片_20260617112158_286_3823",
         "full": "/images/food/thumbs/微信图片_20260617112158_286_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617112158_286_3823.jpg",
@@ -902,7 +878,7 @@
         "hidden": false
       },
       {
-        "id": "food_41",
+        "id": "food_39",
         "title": "微信图片_20260617112204_287_3823",
         "full": "/images/food/thumbs/微信图片_20260617112204_287_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617112204_287_3823.jpg",
@@ -910,7 +886,7 @@
         "hidden": false
       },
       {
-        "id": "food_42",
+        "id": "food_40",
         "title": "微信图片_20260617112211_288_3823",
         "full": "/images/food/thumbs/微信图片_20260617112211_288_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617112211_288_3823.jpg",
@@ -918,7 +894,7 @@
         "hidden": false
       },
       {
-        "id": "food_43",
+        "id": "food_41",
         "title": "微信图片_20260617123024_289_3823",
         "full": "/images/food/thumbs/微信图片_20260617123024_289_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123024_289_3823.jpg",
@@ -926,7 +902,7 @@
         "hidden": false
       },
       {
-        "id": "food_44",
+        "id": "food_42",
         "title": "微信图片_20260617123025_290_3823",
         "full": "/images/food/thumbs/微信图片_20260617123025_290_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123025_290_3823.jpg",
@@ -934,7 +910,7 @@
         "hidden": false
       },
       {
-        "id": "food_45",
+        "id": "food_43",
         "title": "微信图片_20260617123117_291_3823",
         "full": "/images/food/thumbs/微信图片_20260617123117_291_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123117_291_3823.jpg",
@@ -942,7 +918,7 @@
         "hidden": false
       },
       {
-        "id": "food_46",
+        "id": "food_44",
         "title": "微信图片_20260617123119_292_3823",
         "full": "/images/food/thumbs/微信图片_20260617123119_292_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123119_292_3823.jpg",
@@ -950,7 +926,7 @@
         "hidden": false
       },
       {
-        "id": "food_47",
+        "id": "food_45",
         "title": "微信图片_20260617123120_293_3823",
         "full": "/images/food/thumbs/微信图片_20260617123120_293_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123120_293_3823.jpg",
@@ -958,7 +934,7 @@
         "hidden": false
       },
       {
-        "id": "food_48",
+        "id": "food_46",
         "title": "微信图片_20260617123234_294_3823",
         "full": "/images/food/thumbs/微信图片_20260617123234_294_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123234_294_3823.jpg",
@@ -966,7 +942,7 @@
         "hidden": false
       },
       {
-        "id": "food_49",
+        "id": "food_47",
         "title": "微信图片_20260617123251_295_3823",
         "full": "/images/food/thumbs/微信图片_20260617123251_295_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123251_295_3823.jpg",
@@ -974,7 +950,7 @@
         "hidden": false
       },
       {
-        "id": "food_50",
+        "id": "food_48",
         "title": "微信图片_20260617123609_296_3823",
         "full": "/images/food/thumbs/微信图片_20260617123609_296_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123609_296_3823.jpg",
@@ -982,7 +958,7 @@
         "hidden": false
       },
       {
-        "id": "food_51",
+        "id": "food_49",
         "title": "微信图片_20260617123611_297_3823",
         "full": "/images/food/thumbs/微信图片_20260617123611_297_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123611_297_3823.jpg",
@@ -990,7 +966,7 @@
         "hidden": false
       },
       {
-        "id": "food_52",
+        "id": "food_50",
         "title": "微信图片_20260617123613_298_3823",
         "full": "/images/food/thumbs/微信图片_20260617123613_298_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123613_298_3823.jpg",
@@ -998,7 +974,7 @@
         "hidden": false
       },
       {
-        "id": "food_53",
+        "id": "food_51",
         "title": "微信图片_20260617123706_299_3823",
         "full": "/images/food/thumbs/微信图片_20260617123706_299_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123706_299_3823.jpg",
@@ -1006,7 +982,7 @@
         "hidden": false
       },
       {
-        "id": "food_54",
+        "id": "food_52",
         "title": "微信图片_20260617123718_300_3823",
         "full": "/images/food/thumbs/微信图片_20260617123718_300_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123718_300_3823.jpg",
@@ -1014,7 +990,7 @@
         "hidden": false
       },
       {
-        "id": "food_55",
+        "id": "food_53",
         "title": "微信图片_20260617123733_301_3823",
         "full": "/images/food/thumbs/微信图片_20260617123733_301_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123733_301_3823.jpg",
@@ -1022,7 +998,7 @@
         "hidden": false
       },
       {
-        "id": "food_56",
+        "id": "food_54",
         "title": "微信图片_20260617123738_302_3823",
         "full": "/images/food/thumbs/微信图片_20260617123738_302_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617123738_302_3823.jpg",
@@ -1030,7 +1006,7 @@
         "hidden": false
       },
       {
-        "id": "food_57",
+        "id": "food_55",
         "title": "微信图片_20260617141252_303_3823",
         "full": "/images/food/thumbs/微信图片_20260617141252_303_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617141252_303_3823.jpg",
@@ -1038,7 +1014,7 @@
         "hidden": false
       },
       {
-        "id": "food_58",
+        "id": "food_56",
         "title": "微信图片_20260617152015_304_3823",
         "full": "/images/food/thumbs/微信图片_20260617152015_304_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152015_304_3823.jpg",
@@ -1046,7 +1022,7 @@
         "hidden": false
       },
       {
-        "id": "food_59",
+        "id": "food_57",
         "title": "微信图片_20260617152018_305_3823",
         "full": "/images/food/thumbs/微信图片_20260617152018_305_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152018_305_3823.jpg",
@@ -1054,7 +1030,7 @@
         "hidden": false
       },
       {
-        "id": "food_60",
+        "id": "food_58",
         "title": "微信图片_20260617152019_306_3823",
         "full": "/images/food/thumbs/微信图片_20260617152019_306_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152019_306_3823.jpg",
@@ -1062,7 +1038,7 @@
         "hidden": false
       },
       {
-        "id": "food_61",
+        "id": "food_59",
         "title": "微信图片_20260617152021_307_3823",
         "full": "/images/food/thumbs/微信图片_20260617152021_307_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152021_307_3823.jpg",
@@ -1070,7 +1046,7 @@
         "hidden": false
       },
       {
-        "id": "food_62",
+        "id": "food_60",
         "title": "微信图片_20260617152022_308_3823",
         "full": "/images/food/thumbs/微信图片_20260617152022_308_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152022_308_3823.jpg",
@@ -1078,7 +1054,7 @@
         "hidden": false
       },
       {
-        "id": "food_63",
+        "id": "food_61",
         "title": "微信图片_20260617152238_309_3823",
         "full": "/images/food/thumbs/微信图片_20260617152238_309_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152238_309_3823.jpg",
@@ -1086,7 +1062,7 @@
         "hidden": false
       },
       {
-        "id": "food_64",
+        "id": "food_62",
         "title": "微信图片_20260617152314_310_3823",
         "full": "/images/food/thumbs/微信图片_20260617152314_310_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152314_310_3823.jpg",
@@ -1094,7 +1070,7 @@
         "hidden": false
       },
       {
-        "id": "food_65",
+        "id": "food_63",
         "title": "微信图片_20260617152321_311_3823",
         "full": "/images/food/thumbs/微信图片_20260617152321_311_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152321_311_3823.jpg",
@@ -1102,7 +1078,7 @@
         "hidden": false
       },
       {
-        "id": "food_66",
+        "id": "food_64",
         "title": "微信图片_20260617152329_312_3823",
         "full": "/images/food/thumbs/微信图片_20260617152329_312_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617152329_312_3823.jpg",
@@ -1110,7 +1086,7 @@
         "hidden": false
       },
       {
-        "id": "food_67",
+        "id": "food_65",
         "title": "微信图片_20260617155805_314_3823",
         "full": "/images/food/thumbs/微信图片_20260617155805_314_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617155805_314_3823.jpg",
@@ -1118,7 +1094,7 @@
         "hidden": false
       },
       {
-        "id": "food_68",
+        "id": "food_66",
         "title": "微信图片_20260617222657_415_3823",
         "full": "/images/food/thumbs/微信图片_20260617222657_415_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617222657_415_3823.jpg",
@@ -1126,7 +1102,7 @@
         "hidden": false
       },
       {
-        "id": "food_69",
+        "id": "food_67",
         "title": "微信图片_20260617222742_417_3823",
         "full": "/images/food/thumbs/微信图片_20260617222742_417_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617222742_417_3823.jpg",
@@ -1134,7 +1110,7 @@
         "hidden": false
       },
       {
-        "id": "food_70",
+        "id": "food_68",
         "title": "微信图片_20260617223315_419_3823",
         "full": "/images/food/thumbs/微信图片_20260617223315_419_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260617223315_419_3823.jpg",
@@ -1142,7 +1118,7 @@
         "hidden": false
       },
       {
-        "id": "food_71",
+        "id": "food_69",
         "title": "微信图片_20260618194625_524_3823",
         "full": "/images/food/thumbs/微信图片_20260618194625_524_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194625_524_3823.jpg",
@@ -1150,7 +1126,7 @@
         "hidden": false
       },
       {
-        "id": "food_72",
+        "id": "food_70",
         "title": "微信图片_20260618194626_527_3823",
         "full": "/images/food/thumbs/微信图片_20260618194626_527_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194626_527_3823.jpg",
@@ -1158,7 +1134,7 @@
         "hidden": false
       },
       {
-        "id": "food_73",
+        "id": "food_71",
         "title": "微信图片_20260618194629_530_3823",
         "full": "/images/food/thumbs/微信图片_20260618194629_530_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194629_530_3823.jpg",
@@ -1166,7 +1142,7 @@
         "hidden": false
       },
       {
-        "id": "food_74",
+        "id": "food_72",
         "title": "微信图片_20260618194630_531_3823",
         "full": "/images/food/thumbs/微信图片_20260618194630_531_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194630_531_3823.jpg",
@@ -1174,7 +1150,7 @@
         "hidden": false
       },
       {
-        "id": "food_75",
+        "id": "food_73",
         "title": "微信图片_20260618194630_532_3823",
         "full": "/images/food/thumbs/微信图片_20260618194630_532_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194630_532_3823.jpg",
@@ -1182,7 +1158,7 @@
         "hidden": false
       },
       {
-        "id": "food_76",
+        "id": "food_74",
         "title": "微信图片_20260618194630_533_3823",
         "full": "/images/food/thumbs/微信图片_20260618194630_533_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194630_533_3823.jpg",
@@ -1190,7 +1166,7 @@
         "hidden": false
       },
       {
-        "id": "food_77",
+        "id": "food_75",
         "title": "微信图片_20260618194631_534_3823",
         "full": "/images/food/thumbs/微信图片_20260618194631_534_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194631_534_3823.jpg",
@@ -1198,7 +1174,7 @@
         "hidden": false
       },
       {
-        "id": "food_78",
+        "id": "food_76",
         "title": "微信图片_20260618194632_535_3823",
         "full": "/images/food/thumbs/微信图片_20260618194632_535_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194632_535_3823.jpg",
@@ -1206,7 +1182,7 @@
         "hidden": false
       },
       {
-        "id": "food_79",
+        "id": "food_77",
         "title": "微信图片_20260618194632_536_3823",
         "full": "/images/food/thumbs/微信图片_20260618194632_536_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194632_536_3823.jpg",
@@ -1214,7 +1190,7 @@
         "hidden": false
       },
       {
-        "id": "food_80",
+        "id": "food_78",
         "title": "微信图片_20260618194633_537_3823",
         "full": "/images/food/thumbs/微信图片_20260618194633_537_3823.jpg",
         "thumb": "/images/food/thumbs/微信图片_20260618194633_537_3823.jpg",

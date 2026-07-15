@@ -271,6 +271,7 @@ const App = {
       lbHTML.innerHTML = `
         <div class="lightbox-close" id="lbClose">✕</div>
         <div class="lightbox-nav lightbox-prev" id="lbPrev">‹</div>
+        <div class="lb-spinner" id="lbSpinner"></div>
         <img id="lbImage" src="" alt="">
         <div class="lightbox-nav lightbox-next" id="lbNext">›</div>
         <div class="lightbox-counter" id="lbCounter"></div>
@@ -287,7 +288,36 @@ const App = {
     const img = this.currentImages[this.currentIndex];
     const lbImg = document.getElementById('lbImage');
     const counter = document.getElementById('lbCounter');
-    if (lbImg) lbImg.src = img.full;
+    const spinner = document.getElementById('lbSpinner');
+    
+    // Clear previous image, show loading state
+    lbImg.classList.add('loading');
+    lbImg.src = '';
+    if (spinner) spinner.style.display = '';
+    
+    // Use thumbnail as background placeholder
+    if (img.thumb) {
+      lbImg.style.background = `url(${img.thumb}) center/contain no-repeat`;
+      lbImg.style.backgroundBlendMode = 'normal';
+    }
+    
+    // Load full image
+    const fullImg = new Image();
+    fullImg.onload = () => {
+      lbImg.src = img.full;
+      lbImg.classList.remove('loading');
+      lbImg.style.background = '';
+      if (spinner) spinner.style.display = 'none';
+    };
+    fullImg.onerror = () => {
+      // Fallback: try direct load anyway
+      lbImg.src = img.full;
+      lbImg.classList.remove('loading');
+      lbImg.style.background = '';
+      if (spinner) spinner.style.display = 'none';
+    };
+    fullImg.src = img.full;
+    
     if (counter) counter.textContent = `${this.currentIndex + 1} ${this.t('site.lightbox_of')} ${this.currentImages.length}`;
   },
 
